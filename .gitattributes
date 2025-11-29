@@ -1,0 +1,2 @@
+Assets/StreamingAssets/Vuforia/hunt.dat filter=lfs diff=lfs merge=lfs -text
+Assets/Character/Ch38_nonPBR@Baseball[[:space:]]Strike.fbx filter=lfs diff=lfs merge=lfs -text

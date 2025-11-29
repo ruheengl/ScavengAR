@@ -97,3 +97,22 @@ InitTestScene*.unity*
 
 # Auto-generated scenes by play mode tests
 /[Aa]ssets/[Ii]nit[Tt]est[Ss]cene*.unity*
+
+#extra stuff
+# Additional Unity backup / debug folders
+/[Ss]cavengAR_BurstDebugInformation_DoNotShip/
+/[Qq]CAR/
+/[Bb]ackUp[Tt]his[Ff]older_ButDontShipItWithYourGame*/
+*[Bb]ackUp[Tt]his[Ff]older_ButDontShipItWithYourGame*/
+/[Bb]ackup*/ 
+/[Ff]inal*/ 
+/app*/ 
+/[Ss]cavengAR*/ 
+
+# OS files
+.DS_Store
+Thumbs.db
+Desktop.ini
+
+# Ignore Vuforia package
+/Packages/com.ptc.vuforia.engine-*.tgz

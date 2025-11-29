@@ -1,0 +1,31 @@
+<?xml version="1.0" encoding="utf-8" ?>
+<QCARInfo>
+    <TargetSet version="36.0" toolVersion="v7.3.1">
+        <ModelTarget name="Capp" targetId="cf3d281fde7341e3a5b16e09e1b29109" bbox="-0.400931 0 -0.36113 0.400931 0.422582 0.36113" version="14.0" toolVersion="v7.3.1" trackingMode="scan" upVector="0.0 1.0 0.0" optimizeTrackingFor="default" realisticTextures="yes" />
+        <ModelTarget name="LiquidIV" targetId="f0f74bf39ed2441a95ac3edd587d0c88" bbox="-0.356728 0 -0.164721 0.356728 0.655353 0.164721" version="14.0" toolVersion="v7.3.1" trackingMode="scan" upVector="0.0 1.0 0.0" optimizeTrackingFor="default" realisticTextures="yes" />
+        <ModelTarget name="Shoes" targetId="a7d7e5d62771453a8128714c2eb2bcbd" bbox="-0.397947 0 -0.409446 0.397947 0.384841 0.409446" version="14.0" toolVersion="v7.3.1" trackingMode="scan" upVector="0.0 1.0 0.0" optimizeTrackingFor="default" realisticTextures="yes" />
+        <ModelTarget name="Bottle" targetId="7284f8be90404643bae702c746b4a913" bbox="-0.187725 0 -0.172645 0.187725 0.9242 0.172645" version="14.0" toolVersion="v7.3.1" trackingMode="scan" upVector="0.0 1.0 0.0" optimizeTrackingFor="default" realisticTextures="yes" />
+        <ModelTarget name="Book" targetId="1ccf9eabb5324b519815f03ea738601d" bbox="-0.275834 0 -0.350014 0.275834 0.0680175 0.350014" version="14.0" toolVersion="v7.3.1" trackingMode="scan" upVector="0.0 1.0 0.0" optimizeTrackingFor="default" realisticTextures="yes" />
+    </TargetSet>
+    <Assembly name="Capp" assemblyId="d21d3af3874d4578a75a306d6f29d166">
+        <Part name="Capp" translation="0 0 0" rotation="AD: 0 0 1 0" />
+        <EntryPoint name="(none)" trained="yes" />
+    </Assembly>
+    <Assembly name="LiquidIV" assemblyId="bd6695763e3d48399aacc9ccab21c86a">
+        <Part name="LiquidIV" translation="0 0 0" rotation="AD: 0 0 1 0" />
+        <EntryPoint name="(none)" trained="yes" />
+    </Assembly>
+    <Assembly name="Shoes" assemblyId="ca7e91c5c97246cb98e6748587fec97f">
+        <Part name="Shoes" translation="0 0 0" rotation="AD: 0 0 1 0" />
+        <EntryPoint name="(none)" trained="yes" />
+    </Assembly>
+    <Assembly name="Bottle" assemblyId="ae5e4a5002bd4a879753de35ff1f7774">
+        <Part name="Bottle" translation="0 0 0" rotation="AD: 0 0 1 0" />
+        <EntryPoint name="(none)" trained="yes" />
+    </Assembly>
+    <Assembly name="Book" assemblyId="9752c416a0f1456697dcc676489c8bb6">
+        <Part name="Book" translation="0 0 0" rotation="AD: 0 0 1 0" />
+        <EntryPoint name="(none)" trained="yes" />
+    </Assembly>
+    <ModelTargetDatabase mtDBid="c9a5936741de415f89f74ec12eaefe75" name="hunt" toolVersion="v7.3.1" version="36.0" />
+</QCARInfo>
